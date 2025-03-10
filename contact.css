@@ -1,0 +1,36 @@
+.profile-img {
+    width: 300px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.container {
+    max-width: 1320;
+    margin: 0 auto;
+    display: flex;
+    gap: 40px;
+    padding: 100px 0;
+}
+.container-px {
+    max-width: 1320;
+    margin: 0 auto;
+    display: flex;
+    gap: 40px;
+    padding: 40px 0;
+}
+
+.padding-20 {
+    padding: 0 0 20px 0;
+}
+.padding-32 {
+    padding: 0 0 12px 20px;
+}
+
+.sns:hover {
+    color: #D09000;
+}
+.bg-white {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 32px;
+}
